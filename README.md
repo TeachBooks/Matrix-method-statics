@@ -1,3 +1,3 @@
-# Structural Mechanics 4 book
+# Matrix method for statics
 
-This book includes all the contents for the Structural Mechanics 4 book, which include online content for the TU Delft course Structural Mechanics 4.
+This book includes some content for the part on Matrix method for statics in CIEM5000 Base: Structural Engineering

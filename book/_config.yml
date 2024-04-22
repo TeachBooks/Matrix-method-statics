@@ -10,7 +10,7 @@ repository:
 
 html:
   favicon : "images/favicon.ico"
-  baseurl :  "https://teachbooks.github.io/Structural-Mechanics-4/"
+  baseurl :  "https://teachbooks.github.io/Matrix-method-statics/"
   home_page_in_navbar       : true
 
 # Execute notebooks when building
@@ -27,7 +27,7 @@ sphinx:
       use_thebe_lite: true
       exclude_patterns: ["**/_*.yml", "**/*.md", "**/*.ipynb"]
     html_theme_options:
-      repository_url: "https://github.com/TeachBooks/Structural-Mechanics-4"
+      repository_url: "https://github.com/TeachBooks/Matrix-method-statics"
       use_repository_button: true
       use_issues_button : true
       launch_buttons:
