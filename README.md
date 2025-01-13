@@ -1,6 +1,6 @@
 # Moved
 
-This book has been moved to https://github.com/TUDelft-MUDE/CIEM5000-matrix-method-statics
+This book has been moved to: https://github.com/Tom-van-Woudenberg/matrix-method-statics-2023
 
 # Matrix method for statics
 
